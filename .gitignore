@@ -1,0 +1,13 @@
+# Local TLS credentials
+server.key
+server.crt
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local tooling and editor files
+.venv/
+.env
+.DS_Store
